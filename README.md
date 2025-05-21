@@ -4,6 +4,12 @@ This repo is created to upload the zip files containing all the data generated d
 ### 2025
 ||||
 |-|-|-|
+| 10 May | 2 days | DamCTF 2025 |
+| 02 May | 3 days | Pentathon Finals 2025 |
+| 25 Apr | 2 days | UMDCTF 2025 |
+| 18 Apr | 2 days | DawgCTF 2025 |
+| 05 Apr | 2 days | Pentathon Quals 2025 |
+| 04 Apr | 2 days | PlaidCTF 2025 |
 | 26 Mar | 1 day | Hicathon [SSPU] (offline) |
 | 23 Mar | 2 days | WolvCTF 25 |
 | 22 Mar | 1 day | Foo Bar CTF 2025 |
